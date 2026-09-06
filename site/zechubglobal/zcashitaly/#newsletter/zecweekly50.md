@@ -1,6 +1,6 @@
 # ZecWeekly #50
 
-![ZecWeekly #50](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8445f54d-a121-4f40-9f7a-55a56fc52981_1280x720.png)
+![ZecWeekly #50](/content-images/https-3A-2F-2Fsubstack-post-media.s3.ama-45aa631987.webp)
 
 Verbale della riunione dei contributi della comunità Zcash, rilascio di Lightwalletd 0.4.14, programma dell'evento Zcon e tweet della comunità!
 
@@ -14,7 +14,7 @@ A cura di "fog254" ([@FOG1893](https://twitter.com/FOG1893)), tradotto da [Olek]
 
 Ciao! Questa settimana sono in programma eventi come aggiornamenti sulle proposte e i piani per la decentralizzazione di Zcash da parte dell'ECC, il rilascio di Lightwalletd 0.4.14 e altro ancora!
 
-Se volete partecipare alla creazione di future newsletter, visitate il nostro [sito](https://wiki.zechub.xyz/zecweekly-newsletter). Saremo lieti di guidarvi attraverso il processo, è un ottimo modo per conoscere l'ecosistema e guadagnare ZEC.
+Se volete partecipare alla creazione di future newsletter, visitate il nostro [sito](https://zechub.wiki/contribute/zecweekly-newsletter). Saremo lieti di guidarvi attraverso il processo, è un ottimo modo per conoscere l'ecosistema e guadagnare ZEC.
 
 ---
 
@@ -94,7 +94,7 @@ Guardatelo [qui](https://www.youtube.com/watch?v=Wg_WtPdBig0)
 
 [Podcast su Zcash con Jake di ZecSpends](https://twitter.com/zooko/status/1676009051895877632?s=20)
 
-[J.W Verret - "Il dollaro è un toast, comprate Bitcoin, Ethereum, Filecoin e Zcash..."]()
+J.W Verret - "Il dollaro è un toast, comprate Bitcoin, Ethereum, Filecoin e Zcash..."
 
 [Zcash per il commercio elettronico](https://twitter.com/NOWPayments_io/status/1677621547174072321?s=20)
 
@@ -121,7 +121,7 @@ Guardatelo [qui](https://www.youtube.com/watch?v=Wg_WtPdBig0)
 
 ## Zeme della settimana
 
-![https://twitter.com/JackGavigan/status/1673790256439492608?t=cehze_6ZMcSymqdTJGxeQQ&s=19](https://pbs.twimg.com/media/F0J8jz5agAA3oCu?format=jpg&name=large) 
+![https://twitter.com/JackGavigan/status/1673790256439492608?t=cehze_6ZMcSymqdTJGxeQQ&s=19](/content-images/F0J8jz5agAA3oCu-b441f408c3.webp) 
 
 ## Lavori nell'ecosistema
 

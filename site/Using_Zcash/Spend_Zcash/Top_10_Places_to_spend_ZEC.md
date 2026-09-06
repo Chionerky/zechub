@@ -37,19 +37,19 @@ Particularly, in Venezuela, there are a bunch of places (physical places and onl
 
 1.  **Sheila Vargas**  | Foodie | Blogger | Entrepreneur | Mentorship 
 
-[@SheEmprende_ on Social Media](https://www.sheemprende.com/enlaces-sheemprende/). She jumped into the stage thanks to her famous (and delicious) **[Galletas de la FeliZidad](https://free2z.cash/SheEmprende/zpage/galletas-zcash)**
+[@SheEmprende_ on Social Media](https://twitter.com/SheEmprende_). She jumped into the stage thanks to her famous (and delicious) **[Galletas de la FeliZidad](https://free2z.cash/SheEmprende/zpage/galletas-zcash)**
 
 Besides her cookies, she offers other services and the best of all is this: you can pay with ZEC!
 
-![1_20230829_214024_0000.png](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/1_20230829_214024_0000.png)
+![1_20230829_214024_0000.png](/content-images/_unavailable.svg)
 
  Crackle chocolate cookies | Credit: Sheila Vargas Rojas
 
-![2_20230829_214024_0001.png](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/2_20230829_214024_0001.png)
+![2_20230829_214024_0001.png](/content-images/_unavailable.svg)
 
 Oat flakes & raisin cookies | Credit: Sheila Vargas Rojas
 
-![Untitled design_20230829_215327_0000.png](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/Untitled_design_20230829_215327_0000.png)
+![Untitled design_20230829_215327_0000.png](/content-images/_unavailable.svg)
 
 Doughnuts with candied fruits | Credit: Sheila Vargas Rojas | 
 
@@ -57,11 +57,11 @@ Doughnuts with candied fruits | Credit: Sheila Vargas Rojas |
 
 So, if you are a cookie monster..,
 
-![https://media.tenor.com/Px4lboKQYbYAAAAC/champagne-barbie-cookie-monster.gif](https://media.tenor.com/Px4lboKQYbYAAAAC/champagne-barbie-cookie-monster.gif)
+![https://media.tenor.com/Px4lboKQYbYAAAAC/champagne-barbie-cookie-monster.gif](/content-images/champagne-barbie-cookie-monster-ded97640a2.webp)
 
 now you know where to spend your ZEC!
 
-**Website**: [Sheemprende.com](http://Sheemprende.com) 
+**Website**: sheemprende.com has been retired and no longer resolves. Reach her on [Free2z](https://free2z.cash/SheEmprende) | [X Platform](https://twitter.com/SheEmprende_)
 
 **Zcash Unified Address:** 
 
@@ -75,17 +75,17 @@ u1pu63k8tfcf0v06qr6f9qn3qpfh2hj8wjnc3wchguaqy2jc9xxmf4f424jns282qfwzvs6qq3tcd9er
 
 Rosa Ma. Rangel, an Computer engineer  by profession but *chocolatière* by conviction, self-confessed chocolate lover and passionate for bakery and  pastry, offers a wide range of artisanal products from chocolate, traditional venezuelan sweet treats and bakery. 
 
-![Untitled](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/Untitled.png)
+![Untitled](/content-images/_unavailable.svg)
 
 Dried fruit & strawberry chocolate 
 
-![20230829_232246.jpg](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/20230829_232246.jpg)
+![20230829_232246.jpg](/content-images/_unavailable.svg)
 
 Rosa smiles proudly showing that she accepts **Zcash.**
 
-![Screenshot_20230829-232755.png](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/Screenshot_20230829-232755.png)
+![Screenshot_20230829-232755.png](/content-images/_unavailable.svg)
 
-**Website**: [https://somosdulceros.com/](https://somosdulceros.com/) 
+**Website**: somosdulceros.com has been retired and no longer resolves. Use the social links below.
 
 **Social media:** [Instagram](https://www.instagram.com/somos_dulceros) | [X Platform](https://twitter.com/RosaMRangel) | [Free2z](https://free2z.cash/Criptodulceros/zpage/criptodulceros-01)
 
@@ -103,21 +103,21 @@ u12vp85edmrkqy9uvall4wqqn2s9fx8nm5phsxu2nyme5yh8hn5xh8mv3qgunynskjy3t0w89234a83r
 
 Elizabeth is a passionate young mom who loves crafting and designing. She has the most important motivation for being devoted in every thing she does: her family*.💙*
 
-![BackgroundEraser_20230830_134315142.png](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/BackgroundEraser_20230830_134315142.png)
+![BackgroundEraser_20230830_134315142.png](/content-images/_unavailable.svg)
 
 **Blog:** 
 
 [https://papelesacolor.blogspot.com/](https://papelesacolor.blogspot.com/) 
 
-![2_20230830_152443_0001~2.png](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/2_20230830_152443_00012.png)
+![2_20230830_152443_0001~2.png](/content-images/_unavailable.svg)
 
 Are your kids being promoted? **Papeles a color** can help you to celebrate their achievements.
 
-![3_20230830_152443_0002~2.png](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/3_20230830_152443_00022.png)
+![3_20230830_152443_0002~2.png](/content-images/_unavailable.svg)
 
 Something different and unique? A **Zcash** mobile phone charger base!
 
-![1_20230830_152443_0000.png](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/1_20230830_152443_0000.png)
+![1_20230830_152443_0000.png](/content-images/_unavailable.svg)
 
 Some of other beautiful things Papeles a Color handcrafts.
 
@@ -149,7 +149,7 @@ Do you want to feel *empowered?*  **Emprendedoras Digitales de Venezuela** is a 
 
 • branding construction..,  among others. Always thinking about every single woman in Venezuela who wants to rule their own business. 
 
-![https://i0.wp.com/emprendedorasdigitales.org/wp-content/uploads/2020/07/cropped-logo-nuevo_Mesa-de-trabajo-1-scaled-1.jpg?resize=300%2C208&ssl=1](https://i0.wp.com/emprendedorasdigitales.org/wp-content/uploads/2020/07/cropped-logo-nuevo_Mesa-de-trabajo-1-scaled-1.jpg?resize=300%2C208&ssl=1)
+![https://i0.wp.com/emprendedorasdigitales.org/wp-content/uploads/2020/07/cropped-logo-nuevo_Mesa-de-trabajo-1-scaled-1.jpg?resize=300%2C208&ssl=1](/content-images/cropped-logo-nuevo_Mesa-de-trabajo-1-sca-ba7d9d40e8.webp)
 
 **Website**: [https://emprendedorasdigitales.org/](https://emprendedorasdigitales.org/) 
 
@@ -167,7 +167,7 @@ u14g5wzyan35s5fq4glf7hsf0wteuskr3dgfs25wkr2tk5dq6sqrfpq8pqmme5yp7c3eq42tlssgv5hw
 
 1. **GorBrit Social Media**
 
-![Untitled](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/Untitled%201.png)
+![Untitled](/content-images/_unavailable.svg)
 
 This place ruled by **Roosevelt Gordones and Aura Brito** offers services related to:
 
@@ -200,7 +200,7 @@ Besides being a digital designer, Robmar is a photographer who also takes someti
 
 His work is well-known in Zcash ecosystem thanks to his contribution to the ZFAV club.
 
-![Screenshot_20230830-163829-271~2.png](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/Screenshot_20230830-163829-2712.png)
+![Screenshot_20230830-163829-271~2.png](/content-images/_unavailable.svg)
 
 • Video making / edition
 
@@ -218,7 +218,7 @@ His work is well-known in Zcash ecosystem thanks to his contribution to the ZFAV
 
 1. **Karin Beauty Studio | By Karin Gordones**
 
-![Screenshot_20230830-131043-768~2.png](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/Screenshot_20230830-131043-7682.png)
+![Screenshot_20230830-131043-768~2.png](/content-images/_unavailable.svg)
 
 Beautiful nails, beautiful hands thanks to Karin Beauty Studio.
 
@@ -238,13 +238,13 @@ Schedule appointment
 
 ---
 
-![BackgroundEraser_20230901_110901449.png](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/BackgroundEraser_20230901_110901449.png)
+![BackgroundEraser_20230901_110901449.png](/content-images/_unavailable.svg)
 
 1. **Corona de Brillitos.** | By **Gissell** **B**. 
 
 Do you know what’s amazing about Zcash? Having people like Gissell, a 16-yr old girl who loves crafting, making girly beautiful accesories and know that at her age, she uses Zcash in her flourishing business
 
-![20230830_235143_0000.png](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/20230830_235143_0000.png)
+![20230830_235143_0000.png](/content-images/_unavailable.svg)
 
 Nice elegant presentation for scrunchies | Corona de brillitos 
 
@@ -274,7 +274,7 @@ Tecnopapapi is the right person to get in touch with!
 
 • Android Operating System (phones)
 
-![IMG_20230901_093618_042.jpg](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/IMG_20230901_093618_042.jpg)
+![IMG_20230901_093618_042.jpg](/content-images/_unavailable.svg)
 
 **Website** 
 
@@ -300,7 +300,7 @@ Altos Mirandinos, Valles. del Tuy, Guarenas, Guatire, La Guaira, Simón Bolívar
 
 He accepts cryptocurrecies, included **Zcash**
 
-![IMG_20230831_172209_058.jpg](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/IMG_20230831_172209_058.jpg)
+![IMG_20230831_172209_058.jpg](/content-images/_unavailable.svg)
 
  Mr. Mendoza showing his zingo wallet. | Credit image: Edickson Gonzalez 
 
@@ -310,15 +310,63 @@ u10jd0tcj24p9rcju047lymtp9nx38h90j09rnr4ru6e8476822saywgn6phe373q78myrf2ew2j6kst
 
 ---
 
+**[Online | Global | Digital goods, marketplaces & VPNs]**
+
+Everything above is a person or a small business you can reach in Venezuela. These four are online, open to anyone with a wallet and a connection, and settle in ZEC directly.
+
+1. **ZecBuy** | Digital goods | eSIM data | VPN access
+
+ZecBuy sells private digital goods for ZEC: eSIM data plans for travel and Mullvad VPN accounts. There is no sign-up and no email address to hand over. You pick the product, pay in ZEC, and get the code.
+
+**Website**: [zecbuy.com](https://zecbuy.com/)
+
+🌐 Online | Worldwide
+
+---
+
+1. **ZEC Market** | Peer-to-peer marketplace
+
+A non-custodial marketplace where buyers and sellers deal with each other directly. Prices are shown in dollars and settled wallet to wallet in Zcash, shielded by default. The platform charges no fee and never holds anyone's funds, which makes it the place to look when what you want to buy is not on a list like this one.
+
+**Website**: [zecmarket.org](https://zecmarket.org/)
+
+More ecosystem projects like it: [Community Projects](/zcash-community/community-projects)
+
+🌐 Online | Worldwide
+
+---
+
+1. **NymVPN** | Decentralized VPN and mixnet
+
+NymVPN routes traffic through a decentralized network of nodes, with a mixnet mode that adds cover traffic so packet timing and size stop working as a fingerprint. Signing up asks for no personal information, and payment is accepted in privacy coins including Zcash, so paying for the service does not undo the privacy of using it.
+
+**Website**: [nym.com](https://nym.com/)
+
+Background reading: [VPNs and dVPNs](/privacy-tools/vpn-and-dvpn)
+
+🌐 Online | Worldwide
+
+---
+
+1. **Meile dVPN** | Decentralized VPN on the Sentinel network
+
+Meile is a dVPN client from the MathNodes team that runs on the Sentinel network, where the nodes are operated by community members rather than by a single company. Subscription plans are paid inside the app, and shielded ZEC payments are handled through BTCPay. Builds are available for Windows, macOS and Linux alongside the mobile client.
+
+**Website**: [Meile dVPN on MathNodes](https://mathnodes.com/index.php/meile-dvpn-client-linux-os-x/) (meile.app redirects here)
+
+🌐 Online | Worldwide
+
+---
+
 **[Fast food | Italian**]
 
 Bonus : **Allegrini Ristorante** 🇪🇸 | Pizza Place | Italian food | **Accepting Zcash soon.** 
 
 Delivery service | Take away | Reservations
 
-![BackgroundEraser_20230901_114615839.png](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/BackgroundEraser_20230901_114615839.png)
+![BackgroundEraser_20230901_114615839.png](/content-images/_unavailable.svg)
 
-**Website**: [www.alleginiristorante.com](http://www.alleginiristorante.com) (in construction)
+**Website**: none. The announced site at alleginiristorante.com was never completed and the domain no longer resolves. Use the social links below.
 
 **Social media** 
 
@@ -326,7 +374,7 @@ Delivery service | Take away | Reservations
 
 (Soon at [free2z.cash](http://free2z.cash). )
 
-![20230901_121633_0000.png](Places%20to%20Spend%20ZEC%20b8e91641a9d2470a90949c5a543c9b06/20230901_121633_0000.png)
+![20230901_121633_0000.png](/content-images/_unavailable.svg)
 
 **Zcash Unified Address** 
 

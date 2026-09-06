@@ -11,7 +11,7 @@ Selectionné par "Hardaeborla" ([Hardaeborla](https://twitter.com/ayanlajaadebol
 
 Cette semaine, nous sommes ravis de vous apporter les dernières mises à jour sur Zcash ainsi que les développements récents dans l'espace de la cryptomonnaie. Je suis honoré de contribuer à la communauté Zcash avec l'aide de ZecHub. 
 
-Vous pouvez également être un contributeur sur ZecHub en visitant ce [guide](https://wiki.zechub.xyz/contribute).
+Vous pouvez également être un contributeur sur ZecHub en visitant ce [guide](https://zechub.wiki/contribute).
 
 
 ---
@@ -116,7 +116,7 @@ Dans la pièce éducative de cette semaine, nous plongerons dans le monde de Zca
 
 ## Emplois dans l'Écosystème
 
-- [Communications and Community Manager , ECC]()
+- Communications and Community Manager , ECC
 
 - [Executive Head of Product, ECC](https://apply.workable.com/electric-coin-company/j/6ACEC09B90/)
 

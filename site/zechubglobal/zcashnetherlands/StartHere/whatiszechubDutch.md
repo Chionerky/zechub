@@ -4,7 +4,7 @@
 ZecHub is een gedecentraliseerde onderwijshub voor Zcash. Het doel van [ZecHub](http://zechub.xyz) is om een ​​educatief platform te bieden waar leden van de gemeenschap kunnen samenwerken aan het creëren, valideren en promoten van inhoud die het Zcash-ecosysteem ondersteunt. We doen dit via een aantal mechanismen.
 
 1. [Zelfstudies. Voornamelijk video's op ZEC UX.](https://www.youtube.com/channel/UC3-KM00kjCUheRzO5cq3PAA)
-2. [Wiki-docs. Verkorte ZEC-inhoud voor beginners.](https://wiki.zechub.xyz/)
+2. [Wiki-docs. Verkorte ZEC-inhoud voor beginners.](https://zechub.wiki)
 3. [Een podcast waarin communityleden worden geïnterviewd](https://www.youtube.com/playlist?list=PL9eB_cR4oMej3vs1wMwhQL_Vz8WZBftF0).
 4. [Een wekelijkse Zcash-nieuwsbrief.](https://zechub.substack.com/)
 
@@ -36,7 +36,7 @@ donaties:
 zs1txa9wzxsc46w4940c4t76wjlylhntyp7vcppsp8re32z02srqse038melgglew4jwsh3qes4m4n
 ```
 
-![Zonder titel](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/53389a9f-af17-4412-bd25-42cad32eb2b6/Untitled.png)
+![Zonder titel](/content-images/_unavailable.svg)
 
 ** DISCLAIMER: ZecHub is een volledig onafhankelijk en open-source initiatief opgericht door leden van de Zcash-gemeenschap. Niets in deze Github-repository mag worden beschouwd als financieel of investeringsadvies - het is alleen voor informatieve doeleinden.**
 

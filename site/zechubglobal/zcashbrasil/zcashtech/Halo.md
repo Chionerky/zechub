@@ -45,11 +45,11 @@ No [documento Halo](https://eprint.iacr.org/2019/1021.pdf), descrevemos completa
 
 Halo 2 é uma implementação zk-SNARK de alto desempenho escrita em Rust que elimina a necessidade de um Trusted Setup enquanto prepara o cenário de escalabilidade para a  Zcash.
 
-![halo2image](https://electriccoin.co/wp-content/uploads/2020/09/Halo-puzzle-03-1024x517.jpg "halo2")
+![halo2image](/content-images/Halo-puzzle-03-1024x517-e034023d10.webp "halo2")
 
 Ele inclui uma generalização de nossa abordagem chamada de “esquema de acumulação”. Essa nova formalização expõe como nossa técnica de amortização aninhada realmente funciona; adicionando provas a um objeto chamado “acumulador”, onde as provas raciocinam sobre o estado anterior do acumulador, podendo verificar se todas as provas anteriores estavam corretas (por indução) simplesmente verificando o estado atual do acumulador.
 
-![Accumulatorimage](https://i.imgur.com/l4HrYgE.png "acumulador")
+![Accumulatorimage](/content-images/l4HrYgE-1ea7bc32f7.webp "acumulador")
 
 Paralelamente, muitas outras equipes foram descobrindo novos IOPs polinomiais que eram mais eficientes que o Sonic (usado no Halo 1), como o Marlin.
 
@@ -105,11 +105,11 @@ O [grupo de exploração de privacidade e escala](https://appliedzkp.org/) tamb�
 
 ## Outros projetos usando Halo
 
-+ [Anoma, um protocolo que preserva a privacidade](https://anoma.net/blog/an-introduction-to-zk-snark-plonkup)
++ [Anoma, um protocolo que preserva a privacidade](https://anoma.net/blog/hash-functions-in-plonkup)
 
 + [Oribis, uma L2 zkRollup na Cardano](https://docs.orbisprotocol.com/orbis/technology/halo-2)
 
-+ [Darkfi, uma blockchain privada L1 zkEVM](https://darkrenaissance.github.io/darkfi/architecture/architecture.html)
++ [Darkfi, uma blockchain privada L1 zkEVM](https://dark.fi/book/arch/arch.html)
 
 + [Scroll, um L2 zkRollup na Ethereum](https://scroll.mirror.xyz/nDAbJbSIJdQIWqp9kn8J0MVS4s6pYBwHmK7keidQs-k)
 
@@ -129,7 +129,7 @@ O [grupo de exploração de privacidade e escala](https://appliedzkp.org/) tamb�
 
 **Documentação**
 
-- [Recursos do Halo 2](https://github.com/adria0/awesome-halo2)
+- [Recursos do Halo 2](https://github.com/mhchia/awesome-halo2)
 
 - [Documentos do Halo 2](https://zcash.github.io/halo2/)
 

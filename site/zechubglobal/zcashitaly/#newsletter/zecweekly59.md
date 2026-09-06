@@ -1,6 +1,6 @@
 # ZecWeekly #59
 
-![ZecWeekly #59](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffcbe716-01d8-48f0-afe0-1e95c2081d39_1280x720.png)
+![ZecWeekly #59](/content-images/https-3A-2F-2Fsubstack-post-media.s3.ama-ba2eb3d5e5.webp)
 
 Discussioni sul Dev Fund 2, nuovi approcci al Mobile SDK e ispirazione dal Dweb Camp Brazil!
 
@@ -17,7 +17,7 @@ Benvenuti a una settimana entusiasmante, in cui vi forniremo gli ultimi aggiorna
 
 Questa settimana vi presentiamo una guida di recente pubblicazione sull'utilizzo di Zcash con gli exchange non custodial, una descrizione completa dei motivi per cui sono importanti, compreso un elenco completo degli exchange non custoditi supportati da Zcash!
 
-Per saperne di più: [Scambi non custodial](https://wiki.zechub.xyz/non-custodial-exchanges)
+Per saperne di più: [Scambi non custodial](https://zechub.wiki/using-zcash/non-custodial-exchanges)
 
 
 ## Aggiornamenti su Zcash
@@ -94,7 +94,7 @@ Per saperne di più: [Scambi non custodial](https://wiki.zechub.xyz/non-custodia
 
 ## Zeme della settimana
 
-![Zeme](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01866d13-c8a6-488b-98b6-b08754965a2e_1080x1080.jpeg)
+![Zeme](/content-images/https-3A-2F-2Fsubstack-post-media.s3.ama-a91d491e4b.webp)
 
 ## Lavori nell'ecosistema
 

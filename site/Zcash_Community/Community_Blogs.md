@@ -8,6 +8,9 @@ Here are some of the active ones:
 
 | Blog / Author              | Description                                              | Link |
 |----------------------------|----------------------------------------------------------|------|
+| How Zcash works            | Build a working model of Zcash                           | [Visit ->](https://community.pgpz.org/zec-shelf/how-zcash-works.html#top) |
+| Max Desalle                | Mastering Zcash                                          | [Visit ->](https://maxdesalle.com/mastering-zcash/) |
+| Mike Rosulek               | The Joy of Cryptography                                  | [Visit ->](https://joyofcryptography.com/) |
 | James Katz                 | Personal writings and thoughts on Zcash and privacy      | [Visit ->](https://free2z.cash/James_Katz/) |
 | Thumbs' Update             | Regular ecosystem updates and insights                   | [Visit ->](https://thumbsup.substack.com) |
 | roomatemusing              | Musings and community content                            | [Visit ->](https://free2z.cash/roommatemusing) |
@@ -19,7 +22,7 @@ Here are some of the active ones:
 | Sqribbles                  | Creative and community-driven Zcash content              | [Visit ->](https://free2z.cash/sqribbles) |
 | Str4d                      | Technical writings from Zcash core developer             | [Visit ->](https://words.str4d.xyz/) |
 | CipherScan Weekly          | Weekly blog posts covering Zcash blockchain analytics    | [Visit ->](https://cipherscan.app/) |
-| Zcash Shielded News        | Weekly privacy and ecosystem news digest                 | [Visit ->](https://zechub.wiki) |
+| Zcash Shielded News        | Weekly privacy and ecosystem news digest                 | [Visit ->](https://zechub.substack.com/) |
 | ZecHub DAO Blog            | Articles and educational content from the ZecHub DAO community | [Visit ->](https://zechub.wiki) |
 
 ---

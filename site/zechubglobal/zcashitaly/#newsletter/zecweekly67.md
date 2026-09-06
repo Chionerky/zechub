@@ -1,6 +1,6 @@
 # ZecWeekly #67
 
-![ZecWeekly #67](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e9ffe9c-c750-44eb-810c-c64faf446dc3_1024x576.gif)
+![ZecWeekly #67](/content-images/https-3A-2F-2Fsubstack-post-media.s3.ama-fb496a2ebb.webp)
 
 Zgo supporta gli indirizzi unificati, ECC esce dalla modalità di emergenza e Zondax Hardware Wallet demo!
 
@@ -12,7 +12,7 @@ A cura di "Ochuko" ([amochuko](https://github.com/amochuko)), tradotto da [Olek]
 
 Questa settimana ci aggiorna sugli obiettivi di gennaio 2024 dell'ECC per l'UX, sui problemi di prestazioni dei portafogli risolti, sull'SDK di Zcash e sulle ultime notizie dal mondo delle criptovalute.
 
-Se volete partecipare alla creazione di future newsletter, visitate il nostro [sito](https://wiki.zechub.xyz/zecweekly-newsletter). Saremo lieti di guidarvi attraverso il processo, è un ottimo modo per conoscere l'ecosistema e guadagnare ZEC.
+Se volete partecipare alla creazione di future newsletter, visitate il nostro [sito](https://zechub.wiki/contribute/zecweekly-newsletter). Saremo lieti di guidarvi attraverso il processo, è un ottimo modo per conoscere l'ecosistema e guadagnare ZEC.
 
 ---
 
@@ -94,7 +94,7 @@ https://www.youtube.com/watch?v=HtorP8TJ5vk
 
 ## Zeme della settimana
 
-![Image](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbae47321-fcc3-4264-ade6-1bbbbd39bac9_888x499.png)
+![Image](/content-images/https-3A-2F-2Fsubstack-post-media.s3.ama-13d80344de.webp)
 
 <https://twitter.com/In4Crypto/status/1720834999035854958>
 

@@ -4,7 +4,7 @@
 ZecHub est un centre d'éducation décentralisé pour Zcash. L'objectif de [ZecHub](http://zechub.xyz) est de fournir une plate-forme éducative où les membres de la communauté peuvent travailler ensemble sur la création, la validation et la promotion de contenu qui prend en charge l'écosystème Zcash. Nous le faisons à travers quelques mécanismes.
 
 1. [Tutoriels. Principalement des vidéos sur ZEC UX.](https://www.youtube.com/channel/UC3-KM00kjCUheRzO5cq3PAA)
-2. [Wiki-docs. Contenu ZEC abrégé pour les débutants.](https://wiki.zechub.xyz/)
+2. [Wiki-docs. Contenu ZEC abrégé pour les débutants.](https://zechub.wiki)
 3. [Un podcast interviewant des membres de la communauté](https://www.youtube.com/playlist?list=PL9eB_cR4oMej3vs1wMwhQL_Vz8WZBftF0).
 4. [Une newsletter hebdomadaire Zcash.](https://zechub.substack.com/)
 
@@ -36,7 +36,7 @@ Des dons:
 zs1txa9wzxsc46w4940c4t76wjlylhntyp7vcppsp8re32z02srqse038melgglew4jwsh3qes4m4n
 ```
 
-![Sans titre](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/53389a9f-af17-4412-bd25-42cad32eb2b6/Untitled.png)
+![Sans titre](/content-images/_unavailable.svg)
 
 **AVIS DE NON-RESPONSABILITÉ : ZecHub est une initiative entièrement indépendante et open source fondée par des membres de la communauté Zcash. Rien de ce qui est contenu dans ce référentiel Github ne doit être considéré comme un conseil financier ou d'investissement - il est uniquement à des fins d'information.**
 

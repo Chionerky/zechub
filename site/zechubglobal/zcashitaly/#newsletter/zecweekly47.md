@@ -1,6 +1,6 @@
 # ZecWeekly #47
 
-![ZecWeekly #47](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F503b1b6e-d0f9-46b7-b2b3-b80f88976661_1280x720.png)
+![ZecWeekly #47](/content-images/https-3A-2F-2Fsubstack-post-media.s3.ama-83c7cd79c8.webp)
 
 La Fondazione Zcash lancia Zebra 1.0.0, ECC rilascia Zcashd 5.6.0 e l'appello della comunità ZCG!
 
@@ -12,7 +12,7 @@ A cura di "Hardaeborla" ([Hardaeborla](https://twitter.com/ayanlajaadebola)), tr
 
 ### Benvenuti a ZecWeekly
 
-Salve Zcashers! È un'altra settimana in cui condividiamo notizie e aggiornamenti entusiasmanti da Zcash, comprese le notizie e gli eventi che accadono nello spazio crittografico. Potete anche contribuire a ZecHub visitando il nostro [sito](https://wiki.zechub.xyz/contribute).
+Salve Zcashers! È un'altra settimana in cui condividiamo notizie e aggiornamenti entusiasmanti da Zcash, comprese le notizie e gli eventi che accadono nello spazio crittografico. Potete anche contribuire a ZecHub visitando il nostro [sito](https://zechub.wiki/contribute).
 
 Approfondiremo gli aggiornamenti dell'ECC sulla nuova release di Zcashd 5.6.0 senza tralasciare l'ultimo sviluppo della Zcash Foundation (Zebra 1.0.0). Inoltre, condivideremo alcuni consigli e tutorial sulle criptovalute attraverso la sezione Education Piece. 
 

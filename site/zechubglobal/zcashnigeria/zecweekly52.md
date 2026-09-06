@@ -10,7 +10,7 @@ O jẹ apakan igbadun miiran ti ọsẹ nigbati a pin imudojuiwọn aipẹ ti n 
 
 O tun le jẹ oluranlọwọ lori ZecHub nipa riranlọwọ wa lọwọ lati ṣẹda Iwe irohin ọsẹ wa ati gba ere fun ilowosi rẹ. Kọ ẹkọ diẹ sii nipa titẹ ọna asopọ ni isalẹ 👇
 
-[Ṣẹda  Iwe iroyin Osese Zec!](https://wiki.zechub.xyz/ZecWeekly-newsletter) 
+[Ṣẹda  Iwe iroyin Osese Zec!](https://zechub.wiki/contribute/zecweekly-newsletter) 
 
 
 
@@ -19,7 +19,7 @@ O tun le jẹ oluranlọwọ lori ZecHub nipa riranlọwọ wa lọwọ lati ṣ
 ## Nkan Ẹkọ ti Ọsẹ yii
 A yoo kọ ẹkọ diẹ sii nipa Ilana ikọkọ kan eyiti o nlo Imudaniloju-ti-Stake Layer-1 lati pese ikọkọ dukia interchain-agnostic fun awọn olumulo. Wiki yii bo gbogbo awọn nkan pataki ti o nilo lati mọ nipa Ilana Namada ati pataki julọ, o jẹ ajọṣepọ ilana 🤝 pẹlu Zcash.
 
-[Kọ ẹkọ diẹ sii nipa Ilana Namada](https://wiki.zechub.xyz/namada-protocol) 
+[Kọ ẹkọ diẹ sii nipa Ilana Namada](https://zechub.wiki/privacy-tools/namada-protocol) 
 
 
 ## Awọn imudojuiwọn Zcash
@@ -33,13 +33,13 @@ A yoo kọ ẹkọ diẹ sii nipa Ilana ikọkọ kan eyiti o nlo Imudaniloju-ti
 
 [Kalẹnda Ologba ZFAV 📆 fun Zcon4!](https://wiki.zechub.xyz/zfav/calendar) 
 
-[ZF- Ojo iwaju ti igbeowosile Zcash ati Decentralization](http://ttps//twitter.com/ZcashFoundation/status/1682479746007826432?t=UiLUIKecGAq65xOj1VCLNg&s=19) 
+[ZF- Ojo iwaju ti igbeowosile Zcash ati Decentralization](https://twitter.com/ZcashFoundation/status/1682479746007826432?t=UiLUIKecGAq65xOj1VCLNg&s=19) 
 
 
 
 ####  Awọn imudojuiwọn Awọn ifunni Agbegbe Zcash
 
-[Eto igbeowosile Agbegbe Zcash](http://ttps//twitter.com/ZcashFoundation/status/1682425236073881615?t=TrT1q9LyiySOBlsdeium1w&s=19) 
+[Eto igbeowosile Agbegbe Zcash](https://twitter.com/ZcashFoundation/status/1682425236073881615?t=TrT1q9LyiySOBlsdeium1w&s=19) 
 
 [Awọn Imọye bọtini ati Imọran fun Awọn olugba Grant ati Awọn olubẹwẹ](https://twitter.com/ZcashFoundation/status/1681337820323954689?t=VPV5wiuIusTWSaPINxc86g&s=19) 
 

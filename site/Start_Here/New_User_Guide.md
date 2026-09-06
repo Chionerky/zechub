@@ -7,7 +7,7 @@
 ## TL;DR
 
 - **Buy ZEC** on a supported exchange (Gemini, BitcoinVN, etc.)
-- **Set up a shielded wallet** (Zashi, YWallet, or ZODL recommended)
+- **Set up a shielded wallet** (Zodl, Zingo, or Zkool recommended)
 - **Withdraw** your ZEC from the exchange to your shielded wallet
 - **Send a shielded transaction** — your first private payment on Zcash
 - **Join the community** on the forum or Discord
@@ -101,7 +101,7 @@ The Zcash Community Forum is the place where members of the Zcash community disc
 The community is passionate and very welcoming of new members. Sometimes conversations can be technical, but don't worry! If you ever have a question, you can ask.
 
 <a href="">
-    <img width="auto" height="200" alt="zcash-logo-horizontal-transparent" src="https://github.com/user-attachments/assets/c1d40441-4336-4754-b3bf-5a746b19a9d5" />
+    <img width="auto" height="200" alt="zcash-logo-horizontal-transparent" src="/content-images/c1d40441-4336-4754-b3bf-5a746b19a9d5-6d2eca6cbf.webp" />
 </a>
 
 ---

@@ -1,6 +1,6 @@
 # ZecWeekly #43
 
-![ZecWeekly #43](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F002896ed-3611-4479-b385-2d61747a0c87_1280x720.png)
+![ZecWeekly #43](/content-images/https-3A-2F-2Fsubstack-post-media.s3.ama-2fb03ed065.webp)
 
 Zcashd v5.5.1 upgrade, Podcast Episodes & Community Events!
 
@@ -16,7 +16,7 @@ Ciao a tutti! Sono lieto di contribuire alla comunità Zcash.
 
 Questa settimana sono in programma eventi come il rilascio di Zcashd v5.5.1 da parte dell'ECC, PhononDAO x Zcash Community Discussion, le funzionalità di Free2Z AI e molto altro ancora!
 
-Se volete partecipare alla creazione di future newsletter, visitate il nostro [sito](https://wiki.zechub.xyz/zecweekly-newsletter). Saremo lieti di guidarvi attraverso il processo, è un ottimo modo per conoscere l'ecosistema e guadagnare ZEC.
+Se volete partecipare alla creazione di future newsletter, visitate il nostro [sito](https://zechub.wiki/contribute/zecweekly-newsletter). Saremo lieti di guidarvi attraverso il processo, è un ottimo modo per conoscere l'ecosistema e guadagnare ZEC.
 
 ---
 

@@ -1,6 +1,6 @@
 # ZecWeekly #52
 
-![ZecWeekly #52](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda605841-6f7d-4080-9f1e-02115900b1e1_1280x720.png)
+![ZecWeekly #52](/content-images/https-3A-2F-2Fsubstack-post-media.s3.ama-dc7aee1010.webp)
 
 ZecHub annuncia il lancio di ZecHub Extras, il tribunale britannico accoglie l'appello di Craig Wright contro il Bitcoin, il DOJ potenzia le indagini sulle criptovalute con la fusione dei team
 
@@ -16,7 +16,7 @@ A cura di "Hardaeborla" ([Hardaeborla](https://twitter.com/ayanlajaadebola)), tr
 
 Potete anche contribuire a ZecHub aiutandoci a creare la nostra Newsletter settimanale e ricevere una ricompensa per il vostro contributo. Per saperne di più, cliccate sul link qui sotto 👇
 
-[Crea la newsletter settimanale di Zec](https://wiki.zechub.xyz/zecweekly-newsletter)
+[Crea la newsletter settimanale di Zec](https://zechub.wiki/contribute/zecweekly-newsletter)
 
 ---
 
@@ -24,7 +24,7 @@ Potete anche contribuire a ZecHub aiutandoci a creare la nostra Newsletter setti
 
 Impareremo qualcosa di più su un protocollo di privacy intercatena che utilizza il protocollo Layer - 1 Proof-of-Stake per fornire agli utenti una privacy intercatena indipendente. Questo progetto Web3 è noto come Protocollo Namada. Questa wiki copre tutte le cose importanti da sapere sul protocollo Namada e, soprattutto, sulla sua alleanza strategica con Zcash. Per saperne di più sul Protocollo Namada, leggete il link qui sotto 👇
 
-[Protocollo Namada](https://wiki.zechub.xyz/namada-protocol)
+[Protocollo Namada](https://zechub.wiki/privacy-tools/namada-protocol)
 
 ## Aggiornamenti su Zcash
 
@@ -129,7 +129,7 @@ Impareremo qualcosa di più su un protocollo di privacy intercatena che utilizza
 
 ## Zeme della settimana
 
-![zeme](https://pbs.twimg.com/media/F1mKYMcXoAMX8lW?format=jpg&name=large) 
+![zeme](/content-images/_unavailable.svg) 
 
 ## Lavori nell'ecosistema
 

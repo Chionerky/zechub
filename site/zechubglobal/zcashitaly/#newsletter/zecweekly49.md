@@ -1,6 +1,6 @@
 # ZecWeekly #49
 
-![ZecWeekly #49](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F650204b1-608a-459a-9956-ad6a005ea73b_1280x720.png?utm_source=substack&utm_medium=email)
+![ZecWeekly #49](/content-images/https-3A-2F-2Fsubstack-post-media.s3.ama-9affe42011.webp)
 
 Risultati delle elezioni del Comitato ZCG, relazione sulla trasparenza del CEC e tweet della comunità
 
@@ -12,7 +12,7 @@ A cura di "Hardaeborla" ([Hardaeborla](https://twitter.com/ayanlajaadebola)), tr
 
 ### Benvenuti a ZecWeekly
 
-Benvenuti a un'altra entusiasmante edizione della nostra newsletter settimanale in cui condividiamo le recenti notizie che accadono nello spazio crittografico e le informazioni più recenti sull'ecosistema Zcash. Potete anche contribuire a ZecHub visitando il nostro [sito](https://wiki.zechub.xyz/contribute). 
+Benvenuti a un'altra entusiasmante edizione della nostra newsletter settimanale in cui condividiamo le recenti notizie che accadono nello spazio crittografico e le informazioni più recenti sull'ecosistema Zcash. Potete anche contribuire a ZecHub visitando il nostro [sito](https://zechub.wiki/contribute). 
 
 Nella newsletter di questa settimana esploreremo i recenti avvenimenti nell'ecosistema Zcash, tra cui il rapporto sulla trasparenza dell'ECC. Verranno inoltre illustrati i diversi modelli di transazione nell'ecosistema Zcash e i recenti sviluppi nello spazio crittografico.
 
@@ -118,7 +118,7 @@ Vale sicuramente la pena di leggerlo 👇
 
 ## Zeme della settimana
 
-![https://twitter.com/JackGavigan/status/1673790256439492608?t=cehze_6ZMcSymqdTJGxeQQ&s=19](https://pbs.twimg.com/media/Fzp_WhhWcAAIwfl?format=png&name=900x900) 
+![https://twitter.com/JackGavigan/status/1673790256439492608?t=cehze_6ZMcSymqdTJGxeQQ&s=19](/content-images/Fzp_WhhWcAAIwfl-76b6e14cb8.webp) 
 
 ## Lavori nell'ecosistema
 

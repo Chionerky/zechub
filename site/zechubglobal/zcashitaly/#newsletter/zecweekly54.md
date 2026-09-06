@@ -1,6 +1,6 @@
 # ZecWeekly #54
 
-![ZecWeekly #54](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff72dab6b-8233-4e95-af75-8ae9eceda15e_1280x720.png)
+![ZecWeekly #54](/content-images/https-3A-2F-2Fsubstack-post-media.s3.ama-10c3b808b1.webp)
 
 Playlist Zcon4, un nuovo faucet ZEC e tweet della comunità da Barcellona
 
@@ -13,7 +13,7 @@ In questa edizione, esploreremo i recenti sviluppi dell'ECC relativi all'evento 
 
 Potete anche contribuire a ZecHub, aiutandoci a creare la nostra Newsletter settimanale e ricevendo una ricompensa per il vostro contributo. 
 
-[Crea newsletter ZecWeekly](https://wiki.zechub.xyz/ZecWeekly-newsletter) 
+[Crea newsletter ZecWeekly](https://zechub.wiki/contribute/zecweekly-newsletter) 
 
 ---
 

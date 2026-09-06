@@ -1,6 +1,6 @@
 # ZecWeekly #48
 
-![ZecWeekly #48](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb83661e8-2d22-4b9b-bd08-00b6bc59e0d8_1280x720.png)
+![ZecWeekly #48](/content-images/https-3A-2F-2Fsubstack-post-media.s3.ama-665b30d8b6.webp)
 
 Zebra Community Call, ZEC è quotato su Binance e l'anniversario di ZecHub
 
@@ -14,7 +14,7 @@ A cura di "Hardaeborla" ([Hardaeborla](https://twitter.com/ayanlajaadebola)), tr
 
 In questa newsletter esploreremo i recenti avvenimenti nell'ecosistema Zcash, tra cui l'anniversario del primo anno di ZecHub, gli aggiornamenti sul recente lancio di Zebra e alcuni consigli utili per l'utilizzo di Zcash. 
 
-Se volete saperne di più su come contribuire a ZecHub visitate il nostro [sito](https://wiki.zechub.xyz/contribute).
+Se volete saperne di più su come contribuire a ZecHub visitate il nostro [sito](https://zechub.wiki/contribute).
 
 ---
 

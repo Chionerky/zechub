@@ -1,0 +1,165 @@
+name: Validate Translated Content
+
+# Least privilege: these jobs only read the tree.
+permissions:
+  contents: read
+
+on:
+  # Run on every PR (no path filter) so the blocking jobs (manifest-invariants,
+  # menu-titles-fresh) always produce a status and can be a REQUIRED check
+  # without hanging unrelated PRs at "Expected — waiting for status".
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  protected-terms:
+    runs-on: ubuntu-latest
+    steps:
+      # TODO: pin actions to full commit SHAs (supply-chain hardening).
+      - uses: actions/checkout@v4
+        with:
+          # Full history so the gate can read source and translations at the
+          # base and tell an introduced violation from inherited staleness.
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Determine base ref
+        id: base
+        # Pass the (attacker-influenceable) ref names through env, never inline
+        # into the shell, to avoid command injection via a crafted branch name.
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          BASE_REF: ${{ github.base_ref }}
+          EVENT_BEFORE: ${{ github.event.before }}
+        run: |
+          if [ "$EVENT_NAME" = "pull_request" ]; then
+            git fetch --no-tags --quiet origin "$BASE_REF"
+            echo "ref=origin/$BASE_REF" >> "$GITHUB_OUTPUT"
+          elif git rev-parse --verify --quiet "$EVENT_BEFORE^{commit}" >/dev/null; then
+            echo "ref=$EVENT_BEFORE" >> "$GITHUB_OUTPUT"
+          else
+            # A branch-creation push sends the all-zero SHA, and a force-push can
+            # leave the previous tip unreachable. Compare against the preceding
+            # commit rather than failing the job for a history reason.
+            echo "ref=HEAD^" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Validate protected terminology
+        # Scoped to what this change did to translations. Inherited staleness
+        # (English edited, translations not yet re-synced) is reported as a
+        # notice and tracked on the translation staleness dashboard instead of
+        # reddening every unrelated PR.
+        env:
+          BASE_REF_OUT: ${{ steps.base.outputs.ref }}
+        run: node scripts/check-protected-terms.mjs --base "$BASE_REF_OUT"
+
+  hash-lib-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Unit-test the translation libraries
+        # Shell-glob (not a bare dir) so it works on Node 20 and still picks up
+        # any future *.test.mjs without editing this workflow.
+        run: node --test translation/lib/*.test.mjs
+
+  menu-titles-fresh:
+    # Freshness gate: the menu-titles manifests must match a from-scratch
+    # regeneration. This enforces atomicity — localized side-menu labels always
+    # land in the same commit as the translations they describe.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Menu-titles manifests are up to date
+        run: node translation/gen-menu-titles.mjs --check
+
+  manifest-invariants:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Full history so change-tracking can read the manifest at the base.
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Determine base ref
+        id: base
+        # Pass the (attacker-influenceable) ref names through env, never inline
+        # into the shell, to avoid command injection via a crafted branch name.
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          BASE_REF: ${{ github.base_ref }}
+          EVENT_BEFORE: ${{ github.event.before }}
+        run: |
+          if [ "$EVENT_NAME" = "pull_request" ]; then
+            git fetch --no-tags --quiet origin "$BASE_REF"
+            echo "ref=origin/$BASE_REF" >> "$GITHUB_OUTPUT"
+          else
+            echo "ref=$EVENT_BEFORE" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Check manifest invariants
+        env:
+          BASE_REF_OUT: ${{ steps.base.outputs.ref }}
+        run: node translation/check-invariants.mjs --base "$BASE_REF_OUT"
+
+  frontmatter-parity:
+    # A translated page must declare the same leading YAML block as its English
+    # source. One of the shapes this catches — a `---` the source does not have —
+    # takes down the GitHub Pages build for the entire site, and did on
+    # 2026-08-14; the others corrupt the page silently. The Pages build only runs
+    # after a merge, so this is the only place a pull request can be stopped.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Full history so the check can tell what this change touched from
+          # damage it merely inherited.
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Determine base ref
+        id: base
+        # Only a pull request gets a base. A push to `main` is swept in full:
+        # scoping it to the last push would let damage introduced earlier — by a
+        # force-push, or by a merge whose own PR predated this job — sit on the
+        # branch that Pages builds from, reported by nothing.
+        #
+        # Pass the (attacker-influenceable) ref name through env, never inline
+        # into the shell, to avoid command injection via a crafted branch name.
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          BASE_REF: ${{ github.base_ref }}
+        run: |
+          if [ "$EVENT_NAME" = "pull_request" ]; then
+            git fetch --no-tags --quiet origin "$BASE_REF"
+            echo "ref=origin/$BASE_REF" >> "$GITHUB_OUTPUT"
+          else
+            echo "ref=" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Check front-matter parity
+        # On a pull request, blocking only on what this change introduced;
+        # anything already broken is printed as a notice. On a push, no --base,
+        # so every page is checked.
+        env:
+          BASE_REF_OUT: ${{ steps.base.outputs.ref }}
+        run: |
+          if [ -n "$BASE_REF_OUT" ]; then
+            node scripts/check-frontmatter.mjs --base "$BASE_REF_OUT"
+          else
+            node scripts/check-frontmatter.mjs
+          fi
